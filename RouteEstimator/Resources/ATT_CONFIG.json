@@ -1,0 +1,16 @@
+{
+  "DEFAULT_GAUGE_ATT":
+  {
+    "FRIENDLY_NAME": "",
+    "INTERNAL_NAME": "TEST_DEFAULT_GAUGE"
+  },
+  "CUSTOM_GAUGE_ATT":
+  {
+    "FRIENDLY_NAME": "Bitola Alternativa",
+    "INTERNAL_NAME": "TEST_CUSTOM_GAUGE"
+  },
+  "CONN_USAGE_ATT":{
+    "FRIENDLY_NAME": "Flags circuitos",
+    "INTERNAL_NAME": "TEST_ESTIMATOR"
+  }
+}

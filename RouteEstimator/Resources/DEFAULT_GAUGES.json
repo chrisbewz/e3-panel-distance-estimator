@@ -1,0 +1,35 @@
+{
+  "SINALIZAÇÃO":
+  {
+    "DEFAULT": 1.5,
+    "CUSTOM": 0
+  },
+  "TC":
+  {
+    "DEFAULT": 2.5,
+    "CUSTOM": 0
+  },
+  "COMANDO": {
+    "DEFAULT": 1.5,
+    "CUSTOM": 0
+  },
+  "POTÊNCIA": {
+    "DEFAULT": 2.5,
+    "CUSTOM": 0
+  },
+  "ATERRAMENTO":
+  {
+    "DEFAULT": 2.5,
+    "CUSTOM": 0
+  },
+  "ALIMENTAÇÃO":
+  {
+    "DEFAULT": 2.5,
+    "CUSTOM": 0
+  },
+  "MULTIPOLAR":
+  {
+    "DEFAULT": 18,
+    "CUSTOM": 0
+  }
+}
